@@ -5,5 +5,15 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Day |
 |---| ----- | -------- | ---------- | --- |
-|2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Go](./daily-challenge//2023//December//2706.%20Buy%20Two%20Chocolates.go) |Easy| 20/12/2023 |
-|1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Go](./daily-challenge//2023/December/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.go)|Medium| 21/12/2023|
+|2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Go](./daily%20challenge/2023/December/2706.%20Buy%20Two%20Chocolates.go) |Easy| 20/12/2023 |
+|1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Go](./daily%20challenge/2023/December/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.go)|Medium| 21/12/2023|
+
+
+### LeetCode Practice
+
+| # | Title | Solution | Difficulty 
+|---| ----- | -------- | ---------- 
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Go](./practice/1.%20Two%20Sum.go) |Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./practice/26.%20Remove%20Duplicates%20from%20Sorted%20Array.go) |Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Go](./practice/88.%20Merge%20Sorted%20Array.go) |Easy|
+
