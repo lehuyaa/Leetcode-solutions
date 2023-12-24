@@ -9,6 +9,7 @@ LeetCode
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Go](./daily%20challenge/2023/December/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.go)|Medium| 21/12/2023|
 |1442|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Go](./daily%20challenge//2023/December/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.go)|Easy| 22/12/2023|
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description) | [Go](./daily%20challenge/2023/December/1496.%20Path%20Crossing.go)|Easy| 23/12/2023|
+|1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description) | [Go](./daily%20challenge/2023/December/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.go)|Easy| 24/12/2023|
 
 ### LeetCode Practice
 
