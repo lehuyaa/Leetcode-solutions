@@ -16,7 +16,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Note |
 |---| ----- | -------- | ---------- | ---- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Go](./practice/1.%20Two%20Sum.go) |Easy| Array, Hash table |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Go](./practice/1.%20Two%20Sum/1.%20Two%20Sum.go) |Easy| Array, Hash table |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Go](./practice//5.%20Longest%20Palindromic%20Substring.go) |Medium| String, Dynamic programming |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./practice/26.%20Remove%20Duplicates%20from%20Sorted%20Array.go) |Easy| Array |
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Go](./practice/88.%20Merge%20Sorted%20Array.go) |Easy| Array |
