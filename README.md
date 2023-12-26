@@ -20,6 +20,8 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Go](./practice/1.%20Two%20Sum.go) |Easy| Array, Hash table |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Go](./practice//5.%20Longest%20Palindromic%20Substring.go) |Medium| String, Dynamic programming |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./practice/26.%20Remove%20Duplicates%20from%20Sorted%20Array.go) |Easy| Array |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Go](./practice/27.%20Remove%20Element.go) |Easy| Array |
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Go](./practice/35.%20Search%20Insert%20Position.go) |Easy| Array |
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Go](./practice/88.%20Merge%20Sorted%20Array.go) |Easy| Array |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description) | [Go](./daily%20challenge/2023/December/91.%20Decode%20Ways.go)|Medium| String, Dynamic programming |
 |1442|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Go](./daily%20challenge//2023/December/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.go)|Easy| String |
