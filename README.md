@@ -14,6 +14,13 @@ LeetCode
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [Go](./daily%20challenge/2023/December/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.go)|Medium| 26/12/2023 |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description) | [Go](./daily%20challenge/2023/December/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful.go)|Medium| 27/12/2023 |
 
+## January - 2024
+
+| # | Title | Solution | Difficulty | Day |
+|---| ----- | -------- | ---------- | --- |
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description) | [Go](./daily%20challenge/2024/January/455.%20Assign%20Cookies.go) |Easy| 01/01/2024 |
+
+
 ### LeetCode Practice
 
 | # | Title | Solution | Difficulty | Note |
@@ -25,6 +32,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Go](./practice/35.%20Search%20Insert%20Position.go) |Easy| Array |
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Go](./practice/88.%20Merge%20Sorted%20Array.go) |Easy| Array |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description) | [Go](./daily%20challenge/2023/December/91.%20Decode%20Ways.go)|Medium| String, Dynamic programming |
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description) | [Go](./daily%20challenge/2024/January/455.%20Assign%20Cookies.go) |Easy| Array, sort |
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [Go](./daily%20challenge/2023/December/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.go)|Medium| Array, Dynamic programming |
 |1442|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Go](./daily%20challenge//2023/December/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.go)|Easy| String |
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description) | [Go](./daily%20challenge/2023/December/1496.%20Path%20Crossing.go)|Easy| String |
