@@ -22,7 +22,7 @@ LeetCode
 |---| ----- | -------- | ---------- | --- |
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description) | [Go](./daily%20challenge/2024/January/455.%20Assign%20Cookies.go) |Easy| 01/01/2024 |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description) | [Go](./daily%20challenge/2024/January/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) |Medium| 02/01/2024 |
-
+|2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description) | [Go](./daily%20challenge/2024/January/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) |Medium| 03/01/2024 |
 ### LeetCode Practice
 
 | # | Title | Solution | Difficulty | Note |
@@ -44,5 +44,6 @@ LeetCode
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description) | [Go](./daily%20challenge/2023/December/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful.go)|Medium| String, Stack |
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Go](./daily%20challenge/2023/December/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.go)|Medium| Sort, Array |
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description) | [Go](./daily%20challenge/2023/December/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.go)|Easy| String |
+|2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description) | [Go](./daily%20challenge/2024/January/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) |Medium| Array |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description) | [Go](./daily%20challenge/2024/January/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) |Medium| Array |
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Go](./daily%20challenge/2023/December/2706.%20Buy%20Two%20Chocolates.go) |Easy| Array |
