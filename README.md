@@ -23,6 +23,9 @@ LeetCode
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description) | [Go](./daily%20challenge/2024/January/455.%20Assign%20Cookies.go) |Easy| 01/01/2024 |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description) | [Go](./daily%20challenge/2024/January/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) |Medium| 02/01/2024 |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description) | [Go](./daily%20challenge/2024/January/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) |Medium| 03/01/2024 |
+|2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description) | [Go](./daily%20challenge/2024/January/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) |Medium| 04/01/2024 |
+
+
 ### LeetCode Practice
 
 | # | Title | Solution | Difficulty | Note |
@@ -51,3 +54,4 @@ LeetCode
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description) | [Go](./daily%20challenge/2024/January/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) |Medium| Array |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description) | [Go](./daily%20challenge/2024/January/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) |Medium| Array |
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Go](./daily%20challenge/2023/December/2706.%20Buy%20Two%20Chocolates.go) |Easy| Array |
+|2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description) | [Go](./daily%20challenge/2024/January/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) |Medium| Math, Hash Table |
