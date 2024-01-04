@@ -37,10 +37,14 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Go](./practice/88.%20Merge%20Sorted%20Array.go) |Easy| Array |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description) | [Go](./daily%20challenge/2023/December/91.%20Decode%20Ways.go)|Medium| String, Dynamic programming |
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Go](./practice//108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.go)|Easy| Array, Tree |
-|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description) | [Go](./daily%20challenge/2024/January/455.%20Assign%20Cookies.go) |Easy| Array, sort |
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Go](./practice/136.%20Single%20Number.go)|Easy| Array, Bit manipulation, Hash Table |
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Go](./practice/204.%20Count%20Primes.go)|Medium| Sieve of Eratosthenes |
+|414|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Go](./practice/204.%20Count%20Primes.go)|Medium| Sieve of Eratosthenes |
+|455|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Go](./practice/414.%20Third%20Maximum%20Number.go) |Easy| Array |
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [Go](./daily%20challenge/2023/December/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.go)|Medium| Array, Dynamic programming |
 |1442|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Go](./daily%20challenge//2023/December/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.go)|Easy| String |
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description) | [Go](./daily%20challenge/2023/December/1496.%20Path%20Crossing.go)|Easy| String |
+|1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Go](./practice/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.go)|Easy| Math |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description) | [Go](./daily%20challenge/2023/December/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful.go)|Medium| String, Stack |
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Go](./daily%20challenge/2023/December/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.go)|Medium| Sort, Array |
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description) | [Go](./daily%20challenge/2023/December/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.go)|Easy| String |
