@@ -25,6 +25,9 @@ LeetCode
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description) | [Go](./daily%20challenge/2024/January/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) |Medium| 03/01/2024 |
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description) | [Go](./daily%20challenge/2024/January/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) |Medium| 04/01/2024 |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Medium| 05/01/2024 |
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description) | [Go](./daily%20challenge/2024/January/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.go) |Hard| 06/01/2024 |
+|446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Hard| 07/01/2024 |
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Easy| 08/01/2024 |
 
 ### LeetCode Practice
 
@@ -44,8 +47,11 @@ LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Go](./practice/204.%20Count%20Primes.go)|Medium| Sieve of Eratosthenes |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Medium| Binary search |
 |414|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Go](./practice/204.%20Count%20Primes.go)|Medium| Sieve of Eratosthenes |
+|446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Hard| |
 |455|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Go](./practice/414.%20Third%20Maximum%20Number.go) |Easy| Array |
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Easy| Tree |
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [Go](./daily%20challenge/2023/December/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.go)|Medium| Array, Dynamic programming |
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description) | [Go](./daily%20challenge/2024/January/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.go) |Hard| |
 |1442|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Go](./daily%20challenge//2023/December/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.go)|Easy| String |
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description) | [Go](./daily%20challenge/2023/December/1496.%20Path%20Crossing.go)|Easy| String |
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Go](./practice/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.go)|Easy| Math |
