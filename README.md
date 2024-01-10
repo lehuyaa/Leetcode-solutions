@@ -50,9 +50,9 @@ LeetCode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Go](./practice/160.%20Intersection%20of%20Two%20Linked%20Lists.go)|Easy| Linked List |
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Go](./practice/204.%20Count%20Primes.go)|Medium| Sieve of Eratosthenes |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Medium| Binary search |
-|414|[Third Maximum Number]((https://leetcode.com/problems/third-maximum-number/description/)) | [Go](./practice/414. Third Maximum Number.go)|Easy| Array |
+|414|[Third Maximum Number]((https://leetcode.com/problems/third-maximum-number/description/)) | [Go](./practice/414.%20Third%20Maximum%20Number.go)|Easy| Array |
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Hard| |
-|455|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Go](./practice/414.%20Third%20Maximum%20Number.go) |Easy| Array |
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description) | [Go](./daily%20challenge/2024/January/455.%20Assign%20Cookies.go) |Easy| Array, Sort |
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description) | [Go](./daily%20challenge/2024/January/872.%20Leaf-Similar%20Trees.go) |Easy| Tree, DFS |
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Easy| Tree |
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [Go](./daily%20challenge/2023/December/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.go)|Medium| Array, Dynamic programming |
