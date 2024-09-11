@@ -35,7 +35,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Day |
 |---| ----- | -------- | ---------- | --- |
-|455|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [JS](./daily%20challenge/2024/September/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.js) |Medium| 10/09/2024 |
+|2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [JS](./daily%20challenge/2024/September/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.js) |Medium| 10/09/2024 |
+|2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=daily-question&envId=2024-09-11) | [JS](./daily%20challenge/2024/September/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) |Easy| 11/09/2024 |
 ### LeetCode Practice
 
 | # | Title | Solution | Difficulty | Note |
