@@ -30,6 +30,12 @@ LeetCode
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description) | [Go](./daily%20challenge/2024/January/300.%20Longest%20Increasing%20Subsequence.go) |Easy| 08/01/2024 |
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description) | [Go](./daily%20challenge/2024/January/872.%20Leaf-Similar%20Trees.go) |Easy| 09/01/2024 |
 |2385|[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description) | [Go](./daily%20challenge/2024/January/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.go) |Medium| 10/01/2024 |
+
+## September - 2024
+
+| # | Title | Solution | Difficulty | Day |
+|---| ----- | -------- | ---------- | --- |
+|455|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [JS](./daily%20challenge/2024/September/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.js) |Medium| 10/09/2024 |
 ### LeetCode Practice
 
 | # | Title | Solution | Difficulty | Note |
