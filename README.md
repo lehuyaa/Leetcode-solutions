@@ -38,6 +38,7 @@ LeetCode
 |2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [JS](./daily%20challenge/2024/September/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.js) |Medium| 10/09/2024 |
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=daily-question&envId=2024-09-11) | [JS](./daily%20challenge/2024/September/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) |Easy| 11/09/2024 |
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=daily-question&envId=2024-09-12) | [JS](./daily%20challenge/2024/September/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) |Easy| 12/09/2024 |
+|1310|[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/?envType=daily-question&envId=2024-09-13) | [JS](./daily%20challenge/2024/September/1310.%20XOR%20Queries%20of%20a%20Subarray.js) |Medium| 13/09/2024 |
 ### LeetCode Practice
 
 | # | Title | Solution | Difficulty | Note |
